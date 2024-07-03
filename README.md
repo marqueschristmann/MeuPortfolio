@@ -6,7 +6,7 @@
 
 <p> Sinta-se à vontade para fazer um fork deste repositório para modificar e fazer suas próprias alterações. Por favor, dê-me o devido crédito vinculando-o de volta a este repositório. Obrigado!</p>
 
-Demon: https://meu-portfolio-gamma-ten.vercel.app/
+Demo: https://meu-portfolio-gamma-ten.vercel.app/
 
 ## Sobre
 
