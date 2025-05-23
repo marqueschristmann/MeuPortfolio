@@ -31,6 +31,10 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
       "Este projeto teve como objetivo autenticar e autorizar usuários por meio de Tags RFID, utilizando uma integração SIMPLES com um Banco de Dados. Foi desenvolvido com Node.js e Express, garantindo uma implementação eficiente e segura. Através desta integração, os dados de cada usuário, juntamente com as informações das suas respectivas Tags RFID, são armazenados e verificados no banco de dados, proporcionando um processo de autenticação e autorização robusto.",
     NodeApiGithub:
       "https://github.com/marqueschristmann/backend-slocked/tree/master",
+
+    BuscadorDesc:
+      "Scholarly Shelf é uma aplicação web que permite aos usuários pesquisar e descobrir artigos acadêmicos de diversas fontes. Ela oferece uma interface amigável para encontrar artigos de pesquisa relevantes em diferentes campos de estudo.",
+    BuscadorGithub: "https://github.com/marqueschristmann/scholarly-shelf",
   };
 
   let show = "";

@@ -6,6 +6,7 @@ import Encomendas from "../images/Encomendas.jpg";
 import ProjetoApi from "../images/projetoapi.webp";
 import NodeApi from "../images/Nodeapi.png";
 import Conteoodo from "../images/Conteoodo.PNG";
+import Buscador from "../images/Buscador.png";
 
 const Projects = () => {
   return (
@@ -20,6 +21,7 @@ const Projects = () => {
         <ProjectBox projectPhoto={MyFinances} projectName="MyFinances" />
         <ProjectBox projectPhoto={QuickClinc} projectName="QuickClinc" />
         <ProjectBox projectPhoto={Conteoodo} projectName="Conteoodo" />
+        <ProjectBox projectPhoto={Buscador} projectName="Buscador" />
       </div>
     </div>
   );
