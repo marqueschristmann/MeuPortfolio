@@ -56,5 +56,3 @@ Demo: https://meu-portfolio-gamma-ten.vercel.app/
 <p>Fique à vontade para apontar quaisquer bugs   ou melhorias na guia de problemas.</p>
 
 <br/>
-<p>
-  The design for this project is inspired by <a href="https://github.com/soumyajit4419/Portfolio">Saumjyajit's portfolio.</a></p>
