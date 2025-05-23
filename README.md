@@ -1,4 +1,4 @@
-<h2 align="center">Portfólio Pessoal <br/> <a target="_blank" href="">MarquesChristman</a></h2>
+<h2 align="center">Portfólio Pessoal <br/> <a target="_blank" href="">Marques Christman</a></h2>
 
 <br/>
 
@@ -6,7 +6,9 @@
 
 <p> Sinta-se à vontade para fazer um fork deste repositório para modificar e fazer suas próprias alterações. Por favor, dê-me o devido crédito vinculando-o de volta a este repositório. Obrigado!</p>
 
-## About
+Demo: https://meu-portfolio-gamma-ten.vercel.app/
+
+## Sobre
 
 <p>Este projeto é meu portfólio pessoal que apresenta algumas de minhas habilidades, projetos GitHub e meu currículo.</p>
 <p>Estas tecnologias são usadas para construir este site:</p>
